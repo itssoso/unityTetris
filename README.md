@@ -1,2 +1,2 @@
-# unityTetris
-attempt at Tetris with Unity
+# Unity Tetris
+Attempt at Tetris with Unity
